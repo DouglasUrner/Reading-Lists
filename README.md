@@ -1,2 +1,3 @@
 # Reading-Lists
-Lists of interesting stuff to read.
+
+Annotated notes on classroom and PD readings.
