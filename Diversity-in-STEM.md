@@ -11,4 +11,4 @@ Emily J. Smith, Medium, 2018-12-02
 
 [The code that took America to the moon was just published to GitHub, and it’s like a 1960s time capsule](https://qz.com/726338/the-code-that-took-america-to-the-moon-was-just-published-to-github-and-its-like-a-1960s-time-capsule/)
 
-[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11/)
+[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11/) - The original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules, developed by the Software Engineering Division of the MIT Instrumentation Laboratory (now the Draper Laboratory) led by Margaret Hamilton.
