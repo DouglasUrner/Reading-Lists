@@ -4,7 +4,7 @@
 
 Andrew Hunt & David Thomas, The Pragmatic Programmer
 
-Donald Knuth, [The Art of Computer Programming]()
+Donald Knuth, [The Art of Computer Programming](https://www-cs-faculty.stanford.edu/~knuth/taocp.html) - the link is to Knuth's web page for the book, including his roadmap for completing it. There is a [PDF version](http://www.informit.com/authors/bio/3b944909-9332-403e-b7d1-5bd9c96e26fe) as well as a [print version](http://www.informit.com/authors/bio/3b944909-9332-403e-b7d1-5bd9c96e26fe) available.
 
 Steve Krug, Don't Make Me Think
 
